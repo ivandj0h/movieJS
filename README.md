@@ -22,3 +22,5 @@
     * onClick
     * toLowerCase
     * target
+
+## ScreenShoot
