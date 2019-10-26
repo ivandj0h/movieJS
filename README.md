@@ -1,6 +1,6 @@
 # movieJS
 
-## About the Apps
+### About the Apps
     movieJS is a movie application that was made using HTML, CSS & VANILLA JAVASCRIPT
     Below is a list of the methods and properties use :
 
@@ -23,4 +23,5 @@
     * toLowerCase
     * target
 
-## ScreenShoot
+### ScreenShoot
+![Dashboard](assets/images/dashboard.png "This is the HomePage's captured")
