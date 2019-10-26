@@ -24,4 +24,4 @@
     * target
 
 ### ScreenShoot
-![Dashboard](assets/images/dashboard.png "This is the HomePage's captured")
+![Dashboard](captured/dashboard.png "This is the HomePage's captured")
